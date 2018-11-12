@@ -1,0 +1,34 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "Gulp Starter Kit",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Nuccelsa",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-rename": "latest",
+    "gulp-csso": "latest",
+    "gulp-sass": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-cssbeautify": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-plumber": "latest",
+    "gulp-scsslint": "latest",
+    "gulp-jshint": "latest",
+    "gulp-notify": "latest",
+    "run-sequence": "latest"
+  }
+}

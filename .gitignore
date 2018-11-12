@@ -1,0 +1,36 @@
+dist/
+
+
+*.log
+*.diff
+*.err
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+_ai-cache
+
+
+#### OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+.vscode
+nbproject
+Thumbs.db
+
+
+#### Directory : dependencies
+node_modules/
+
+
+#### Dot Directory
+.idea/
+.sass-cache/
+
+
