@@ -11,4 +11,8 @@ Front stack :
 
 3) Run gulp
 
-4) Run gulp watch
+4) Run gulp watch : a page is opened in your browser
+
+
+![Desktop view](captures/desktop.PNG "Desktop")
+![Responsive view](captures/mobile.PNG "Mobile")
