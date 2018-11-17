@@ -12,7 +12,6 @@ var sass = require('gulp-sass'),
     browserSync = require('browser-sync');
     runSequence = require('run-sequence');
 
-
 // Variables de chemins
 var source = './src';       // dossier de dev
 var destination = './dist'; // dossier de prod
@@ -61,8 +60,6 @@ gulp.task('browserSync', function() {
         }
     });
 });
-
-
 
 // watcher ("gulp watch")
 gulp.task('watch', ['browserSync', 'style'], function (){
