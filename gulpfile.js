@@ -77,7 +77,7 @@ gulp.task('watch', ['browserSync', 'style'], function (){
 });
 
 // commande "gulp"
-gulp.task('default', ['style']);
+gulp.task('default', ['style', 'html']);
 // commande "gulp prod"
 gulp.task('prod', ['style','html']);
 
